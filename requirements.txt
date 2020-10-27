@@ -5,7 +5,7 @@ boss-oidc==1.2.2
 certifi==2019.6.16
 cffi==1.12.3
 chardet==3.0.4
-cryptography==2.7
+cryptography==3.2
 Django==2.1.9
 django-keycloak==0.1.2.dev0
 django-oidc==0.1.3
